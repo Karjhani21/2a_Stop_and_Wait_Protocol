@@ -62,14 +62,14 @@ while True:
 
 ## OUTPUT:
 SERVER:
-```
+
 ![image](https://github.com/user-attachments/assets/d93bb215-476e-4129-be49-db090adba7fc)
-```
+
 
 CLIENT:
-```
+
 ![image](https://github.com/user-attachments/assets/45edf535-e2d7-47fd-a3c7-4f1393852485)
-```
+
 
 
 
